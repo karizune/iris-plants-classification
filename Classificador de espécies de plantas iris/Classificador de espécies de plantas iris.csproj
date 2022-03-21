@@ -6,4 +6,8 @@
     <RootNamespace>Classificador_de_espécies_de_plantas_iris</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Classificador de espécies de plantas irisML.Model\Classificador de espécies de plantas irisML.Model.csproj" />
+  </ItemGroup>
+
 </Project>
